@@ -7,6 +7,5 @@ SETUP AIRFLOW LOCALLY
       Docker Compose 1.25 or greater (https://docs.docker.com/compose/install/)
 2. sudo docker-compose up 
 3. To install airflow packages locally
-```
-pip3 install apache-airflow==1.10.9
-```
+        
+        pip3 install apache-airflow==1.10.9
